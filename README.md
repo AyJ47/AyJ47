@@ -1,4 +1,4 @@
-# Hi there, I'm Ayush Jadon 👋
+# Hi there, I'm Ayush Jadon, this readme file is outdated, i'll be updating this in some time.
 
 ## Frontend Developer | React & UI/UX Enthusiast
 
